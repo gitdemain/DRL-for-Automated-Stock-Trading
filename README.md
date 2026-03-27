@@ -10,4 +10,4 @@ most efficient way possible. The agents are trained and tested on real market da
 DRL models are then compared with respect to their annual return, Sharpe ratio, annual
 volatility, maximum drawdown, and other metrics.
 
-Data Description, Methodology and Results are present in the [Reinforcement Learning for Stock Market Investment (Paper)](/Reinforcement Learning for Stock Market Investment (Paper))
+Data Description, Methodology and Results are present in the Reinforcement Learning for Stock Market Investment (Paper).pdf
